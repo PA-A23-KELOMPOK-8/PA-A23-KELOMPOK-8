@@ -7,7 +7,18 @@
 ### •	Farhan Imanudin -2309116028 ###
 
 # Daftar Isi #
-
+•	Deskripsi Program
+•	Implementasi Modul
+•	Instalasi modul
+•	Struktur Program
+•	Cara Penggunaan
+  o	Opsi Awal
+  o	Tampilan User
+  o	Tampilan Admin
+•	Penjelasan Program
+  o	Model
+  o	View
+  o	Controller
 
 # Deskripsi Program # 
 PENSI didesain untuk mengakomodasi kebutuhan berbagai pemangku kepentingan (stakeholders) dalam konteks sistem informasi sekolah di Samarinda. PENSI dirancang untuk mengatasi tantangan tersebut dengan menyediakan solusi yang efisien dan terpadu dalam mendapatkan informasi tentang sekolah-sekolah di Samarinda. Melalui fitur-fitur seperti pencarian sekolah, pengurutan, ulasan, dan pelaporan kekurangan, PENSI diharapkan dapat membantu masyarakat Samarinda dalam memperoleh informasi yang lengkap dan akurat tentang sekolah, sementara pihak sekolah dapat memanfaatkan umpan balik untuk terus meningkatkan kualitas pendidikan yang mereka tawarkan

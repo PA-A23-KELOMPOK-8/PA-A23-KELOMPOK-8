@@ -50,21 +50,14 @@ Adapun Modul yang digunakan dalam Project ini adalah :
 
 # Instalasi Modul #
 
-pip install pymongo
-
-pip install prettytable
-
-pip install python-time
-
-pip install sib_api_v3_sdk
-
-pip install pwinput
-
-pip install python-dotenv
-
-pip install random
-
-pip install DateTime
+* `pip install pymongo`
+* `pip install prettytable`
+* `pip install python-time`
+* `pip install sib_api_v3_sdk`
+* `pip install pwinput`
+* `pip install python-dotenv`
+* `pip install python-Random`
+* `pip install python-Date-Time`
 
 # Struktur Program #
 Konsep yang digunakan adalah MVC (Model, View, Controller). MVC adalah arsitektur pengelolaan program menjadi tiga bagian yaitu Model, View, Controller.

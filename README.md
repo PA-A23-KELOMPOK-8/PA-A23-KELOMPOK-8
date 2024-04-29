@@ -1,10 +1,10 @@
 # Dokumentasi Proyek Akhir Algoritma dan Struktur Data #
 ## Implementasi Algoritma dan Struktur Data pada Platform Sistem Informasi Pendidikan dan Pencarian Sekolah Pendidikan Sistem Informasi di Samarinda ##
 ### Anggota Kelompok ###
-### •	Nyoman Arini Tri -2309116002 ###
-### •	Hana Anastasya Wardah -2309116012 ###
-### •	Widia Saputri -2309116019 ###
-### •	Farhan Imanudin -2309116028 ###
+ •	Nyoman Arini Tri -2309116002 
+ •	Hana Anastasya Wardah -2309116012 
+ •	Widia Saputri -2309116019 
+ •	Farhan Imanudin -2309116028 
 
 # Daftar Isi #
 
@@ -49,6 +49,22 @@ Adapun Modul yang digunakan dalam Project ini adalah :
 
 
 # Instalasi Modul #
+
+pip install pymongo
+
+pip install prettytable
+
+pip install python-time
+
+pip install sib_api_v3_sdk
+
+pip install pwinput
+
+pip install python-dotenv
+
+pip install random
+
+pip install DateTime
 
 # Struktur Program #
 Konsep yang digunakan adalah MVC (Model, View, Controller). MVC adalah arsitektur pengelolaan program menjadi tiga bagian yaitu Model, View, Controller.

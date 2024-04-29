@@ -60,6 +60,8 @@ Berikut adalah penjelasan singkat tentang struktur program yang mengikuti konsep
 
 **Controller:** Bagian ini bertindak sebagai perantara antara model dan view. Ini menerima input dari pengguna, memprosesnya menggunakan logika aplikasi yang sesuai, dan kemudian memperbarui model atau tampilan sesuai dengan hasilnya. Kontroler bertanggung jawab untuk mengatur alur kerja aplikasi, mengelola permintaan pengguna, dan membuat keputusan berdasarkan input yang diterima.
 
+# ERD DATABASE #
+
 ![PA SEM 2 fixx drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/75caccd2-ac42-47c8-9b9f-d0f2d829e5e8)
 
 # Cara Penggunaan # 

@@ -86,7 +86,7 @@ Berikut adalah penjelasan singkat tentang struktur program yang mengikuti konsep
 
 ![PA SEM 2 fixx drawio (2) drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f60f9e63-19fa-4e9d-bfd8-a830afbaa60e)
 
-## ERDISH ## 
+## ERDISH ##
 • Setiap admin sekolah harus memiliki satu dan hanya satu sekolah setiap sekolah harus 
 dimiliki oleh satu dan hanya satu admin sekolah.
 

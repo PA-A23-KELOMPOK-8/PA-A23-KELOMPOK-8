@@ -1,10 +1,10 @@
 # Dokumentasi Proyek Akhir Algoritma dan Struktur Data #
 ## Implementasi Algoritma dan Struktur Data pada Platform Sistem Informasi Pendidikan dan Pencarian Sekolah Pendidikan Sistem Informasi di Samarinda ##
 ### Anggota Kelompok ###
- •	Nyoman Arini Tri -2309116002 
- •	Hana Anastasya Wardah -2309116012 
- •	Widia Saputri -2309116019 
- •	Farhan Imanudin -2309116028 
+### •	Nyoman Arini Tri -2309116002 ###
+### •	Hana Anastasya Wardah -2309116012 ###
+### •	Widia Saputri -2309116019 ###
+### •	Farhan Imanudin -2309116028 ###
 
 # Daftar Isi #
 

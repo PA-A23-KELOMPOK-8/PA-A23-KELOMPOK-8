@@ -34,40 +34,26 @@ PENSI didesain untuk mengakomodasi kebutuhan berbagai pemangku kepentingan (stak
 
 Adapun Modul yang digunakan dalam Project ini adalah :
 
-- **PyMongo** : yaitu modul yang menghubungkan antara python dengan Mongodb yang merupakan Database berbasis Hosting/Server Online.
-
 - **OS** : yaitu modul bawaan yang menyediakan akses ke fungsionalitads sistem operasi.
-
-- **Time** : fungsi yang digunakan ialah sleep() yang berfungsi untuk menghentikan program untuk sementara dalam waktu tertentu, diatur dalam satuan detik.
+  
+- **mysql.connector** : yaitu modul yang menyediakan antarmuka untuk berinteraksi dengan database MySQL. Dengan menggunakan modul ini, Anda dapat terhubung ke database MySQL, mengeksekusi perintah SQL, dan melakukan operasi lain seperti menyisipkan, memperbarui, atau menghapus data.
 
 - **PrettyTable** : yaitu modul yang digunakan untuk memanipulasi visual data yang akan ditampilkan dalam view.
 
-- **SibApiV3Sdk** : yaitu modul yang digunakan untuk mengambil data dari API yang telah disediakan oleh Sendisblue.
-
-- **Pwinput** : yaitu modul yang digunakan untuk mengambil inputan password tanpa menampilkan password yang diinputkan.
-
-- **Dotenv** : yaitu modul yang digunakan untuk menghubungkan antara program dengan file .env yang berisi key - value dari MongoClient.
-
-- **Random** : yaitu modul yang digunakan untuk mengambil data secara random.
+- **math** : Modul ini menyediakan fungsi matematika yang diperlukan untuk melakukan operasi matematika lanjutan. Anda dapat menggunakan modul ini untuk menghitung akar kuadrat, logaritma, trigonometri, dan operasi matematika lainnya.
 
 - **DateTime** : yaitu modul yang digunakan untuk mengambil data tanggal dan waktu.
 
 
 # Instalasi Modul #
 
-* `pip install pymongo`
-  
-* `pip install prettytable`
-  
-* `pip install python-time`
+* `pip install mysql-connector-python`
 
-* `pip install sib_api_v3_sdk`
+* `pip install prettytable`
   
 * `pip install pwinput`
   
-* `pip install python-dotenv`
-  
-* `pip install python-Random`
+* `pip install math`
   
 * `pip install python-Date-Time`
   
@@ -218,3 +204,4 @@ harus menindak lapor
 
 # Cara Penggunaan # 
 ### Opsi Awal ###
+

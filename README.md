@@ -422,7 +422,7 @@ Opsi Kembali digunakan untuk kembali menuju Menu Login Admin.
 ## User
 Dengan memilih opsi “User”, pengguna akan diarahkan ke beberapa menu regular bagi user. 
 
-<img width="341" alt="Screenshot 2024-05-01 192828" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/bc78a60a-24fe-4247-9f83-a02535fa3909">
+<img width="343" alt="Screenshot 2024-05-01 222629" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/3d8ae916-983f-40a6-b1cf-6e92578f3acf">
 
 ### Lihat Data Sekolah 
 

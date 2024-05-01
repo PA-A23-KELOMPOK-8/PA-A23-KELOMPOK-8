@@ -10,7 +10,7 @@
 
 **•	Farhan Imanudin** -2309116028
 
-# Daftar Isi #
+## Daftar Isi ##
 
 - [Deskripsi Program](#deskripsi-program)
 - [Implementasi Modul](#implementasi-modul)
@@ -31,10 +31,10 @@
   - [Controller](#controller)
 
 
-# Deskripsi Program # 
+## Deskripsi Program ##
 PENSI didesain untuk mengakomodasi kebutuhan berbagai pemangku kepentingan (stakeholders) dalam konteks sistem informasi sekolah di Samarinda. PENSI dirancang untuk mengatasi tantangan tersebut dengan menyediakan solusi yang efisien dan terpadu dalam mendapatkan informasi tentang sekolah-sekolah di Samarinda. Melalui fitur-fitur seperti pencarian sekolah, pengurutan, ulasan, dan pelaporan kekurangan, PENSI diharapkan dapat membantu masyarakat Samarinda dalam memperoleh informasi yang lengkap dan akurat tentang sekolah, sementara pihak sekolah dapat memanfaatkan umpan balik untuk terus meningkatkan kualitas pendidikan yang mereka tawarkan
 
-# Implementasi Modul #
+## Implementasi Modul ##
 
 Adapun Modul yang digunakan dalam Project ini adalah :
 
@@ -49,7 +49,7 @@ Adapun Modul yang digunakan dalam Project ini adalah :
 - **DateTime** : yaitu modul yang digunakan untuk mengambil data tanggal dan waktu.
 
 
-# Instalasi Modul #
+## Instalasi Modul ##
 
 * `pip install mysql-connector-python`
 
@@ -62,7 +62,7 @@ Adapun Modul yang digunakan dalam Project ini adalah :
 * `pip install python-Date-Time`
   
 
-# Struktur Program #
+## Struktur Program ##
 Konsep yang digunakan adalah MVC (Model, View, Controller). MVC adalah arsitektur pengelolaan program menjadi tiga bagian yaitu Model, View, Controller.
 Berikut adalah penjelasan singkat tentang struktur program yang mengikuti konsep MVC (Model, View, Controller):
 
@@ -72,7 +72,7 @@ Berikut adalah penjelasan singkat tentang struktur program yang mengikuti konsep
 
 **Controller:** Bagian ini bertindak sebagai perantara antara model dan view. Ini menerima input dari pengguna, memprosesnya menggunakan logika aplikasi yang sesuai, dan kemudian memperbarui model atau tampilan sesuai dengan hasilnya. Kontroler bertanggung jawab untuk mengatur alur kerja aplikasi, mengelola permintaan pengguna, dan membuat keputusan berdasarkan input yang diterima.
 
-# ERD DATABASE #
+## ERD DATABASE ##
 
 ![PA SEM 2 fixx drawio (2) drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f60f9e63-19fa-4e9d-bfd8-a830afbaa60e)
 
@@ -197,7 +197,7 @@ memberikan banyak rating dan ulasan.
 • Admin Laporan – Laporan: Kardinalitas ini mandatory, karena admin laporan 
 harus menindak lapor
 
-# FLOWCHART #
+## FLOWCHART ##
 ![PA ASD 1-Halaman-1 revisi drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/31e571a3-0709-40e2-984f-2713e24bd649)
 ![PA ASD 1-Halaman-2 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/92db1c5e-2759-4d6b-aefd-8e80801e3afe)
 ![PA ASD 1-Halaman-3 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/e7f079d4-8cfe-4dc5-96c8-7f137c94af9b)
@@ -206,6 +206,6 @@ harus menindak lapor
 ![PA ASD 1-Halaman-6 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/50b68735-c9e9-46bc-b814-5bd843dc79ae)
 ![PA ASD 1-Halaman-7 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/6691eb17-71fd-4502-bb14-1efdb54e5a8f)
 
-# Cara Penggunaan # 
+## Cara Penggunaan ##
 ### Opsi Awal ###
 

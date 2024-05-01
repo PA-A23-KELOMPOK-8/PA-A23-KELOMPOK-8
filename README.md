@@ -209,3 +209,91 @@ harus menindak lapor
 ## Cara Penggunaan ##
 ### Opsi Awal ###
 
+Ketika program pertama kali dijalankan user akan ditampilkan empat opsi awal yaitu "Admin", “User” dan "Keluar. Admin adalah opsi untuk masuk kedalam menu menu admin, lalu “User” adalah opsi untuk masuk kedalam menu user, dan opsi “keluar” untuk menutup program.
+
+<img width="235" alt="Screenshot 2024-05-01 192604" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/377a5d1d-9b24-416c-acc7-cdbda1598fe4">
+
+Dengan memilih opsi “User”, pengguna akan diarahkan ke beberapa menu regular bagi user.
+
+<img width="341" alt="Screenshot 2024-05-01 192828" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/bc78a60a-24fe-4247-9f83-a02535fa3909">
+
+Opsi Lihat Data Sekolah program akan menampilkan daftar sekolah yang di dalam nya berisi menu Sorting, Searching, Lihat Data Sekolah dan Kembali ke menu User.
+
+<img width="243" alt="Screenshot 2024-05-01 192856" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/989c1ec1-95fe-4d8b-a7e9-2f42017c53b6">
+
+Jika memilih opsi sorting akan diberikan opsi sorting berdasarkan Nomor Induk Sekolah, Akreditasi. dan bisa melakukan sorting berdasarkan Ascending dan Descanding. 
+<img width="329" alt="Screenshot 2024-05-01 193007" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/5990212a-5b51-4d11-b7ae-68b1c192838c">
+
+Sorting Sekolah berdasarkan Nomor Induk Sekolah (Ascending)
+<img width="656" alt="Screenshot 2024-05-01 193145" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/af1d7c00-59c0-4323-8920-fe2f0cb92a0a">
+
+Sorting Sekolah berdasarkan Nomor Induk Sekolah (Descending)
+<img width="649" alt="Screenshot 2024-05-01 193252" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b6f49265-2fba-47aa-98e8-7fc584392aa1">
+
+Sorting Sekolah berdasarkan Akreditasi Sekolah (Ascending)
+<img width="330" alt="Screenshot 2024-05-01 193412" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/e43aae4a-9ea3-4b8d-93bc-eddbf9ffbca5">
+
+<img width="627" alt="Screenshot 2024-05-01 193526" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/998a194c-46de-42aa-8598-5efcf712bffe">
+
+Sorting Sekolah berdasarkan Akreditasi Sekolah (Descending)
+
+<img width="330" alt="Screenshot 2024-05-01 194402" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/89040324-b0c6-430c-8c85-a7c9145c67e8">
+
+<img width="623" alt="Screenshot 2024-05-01 194348" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/ab1dbbfd-0a20-4bca-af2b-b3ab2384f81c">
+
+Opsi Searching, memiliki opsi Searching berdasarkan Nomor Induk Sekolah, Nama Sekolah, dan opsi kembali. 
+
+<img width="396" alt="Screenshot 2024-05-01 193954" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/9ac035cf-7844-411f-ae23-84977831c366">
+
+Searching Sekolah Berdasarkan Nomor Induk Sekolah, akan diminta input Nomor Induk Sekolah dengan Output ID Sekolah, Nama Sekolah, Nomor Induk Sekolah, dan Akreditas 
+
+<img width="422" alt="Screenshot 2024-05-01 194613" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d93b16a9-a0bc-416e-90cc-79cdf78424e2">
+
+Searching Sekolah Berdasarkan Nama Sekolah, akan diminta input Nama Sekolah dengan Output ID Sekolah, Nama Sekolah, Nomor Induk Sekolah, dan Akreditas 
+
+<img width="415" alt="Screenshot 2024-05-01 194849" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d4219b4e-a766-4de6-930d-be95dafbf6d5">
+
+Menu Lihat Data Sekolah, akan menampilkan data data sekolah seperti ID Sekolah, Nama Sekolah, Nomor Induk Sekolah, dan Akreditasi Sekolah. 
+
+<img width="245" alt="Screenshot 2024-05-01 195032" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/5cace6b6-deff-4c21-9f9f-477410c41306">
+
+<img width="555" alt="Screenshot 2024-05-01 195057" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/43576f15-bb28-4856-a207-7471accb3036">
+
+Selanjutnya ketika memilih opsi Login Akun User akan ditanya "Ingin Login? (y/t)" jika memilih "y" akan diminta untuk input Email,dan Password.
+
+<img width="319" alt="Screenshot 2024-05-01 195445" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/868f6ea6-9de5-45c1-a9d9-ca823f40231a">
+
+<img width="324" alt="Screenshot 2024-05-01 195542" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/61e09121-a1f8-4849-a48a-8d6d7ff2bbd2">
+
+Setelah berhasil login, maka akan masuk ke menu User yaitu, LIhat Data Sekolah, Berikan Rating dan Ulasan, Lporkan Sekolah, dan Kembali. 
+Jika memilih Lihat Data Sekolah maka akan seperti menu sebelumnya yang menampilkan data data sekolah.
+
+<img width="322" alt="Screenshot 2024-05-01 195919" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d1dc83cb-8d63-494e-b4b0-3bf95e4f7b1c">
+
+Opsi berikan rating dan ulasan, akan diminta input, ID Sekolah, masukkan rating (1-5), dan masukkan ulasan.
+ 
+Opsi Laporkan Sekolah , akan diminta masukkan ID Sekolah yang akan dilaporkan, masukkan isi laporan.
+
+Jika pada menu Login Akun User memilih "t" akan diberikan opsi "Apa ingin  buat akun? (y/t)" jika "y" maka akan diminta input Email, Username, Nama Lengkap, dan Password.
+
+<img width="332" alt="Screenshot 2024-05-01 200521" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/9149242e-a2f1-4688-922b-0b50761f20db">
+
+<img width="320" alt="Screenshot 2024-05-01 200607" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/2e96dc2f-567a-4e84-9396-0e40d111411a">
+
+Lalu setelah berhasil membuat akun user, akan masuk ke menu seperti menu akun user yang sudah memiliki akun sebelumnya. 
+
+<img width="217" alt="Screenshot 2024-05-01 200615" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/3fc0d877-76ee-4b40-ab20-1c526fda5c27">
+
+
+
+
+
+
+
+
+
+
+
+
+
+

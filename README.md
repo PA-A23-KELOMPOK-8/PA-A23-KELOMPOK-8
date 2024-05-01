@@ -261,22 +261,31 @@ Ketika program pertama kali dijalankan user akan ditampilkan empat opsi awal yai
 ### Menu Login Admin
 Pada saat memilih pilihan admin, akan terdapat menu login admin yang terdiri dari, “Admin Data”, “Admin Sekolah”, “Admin Laporan”, dan “Keluar”.
 
+![Screenshot (438)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/fc8f2b8c-3c49-4e7a-b469-b6e76a593910)
+
 ### Admin Data
 
 Apabila memilih pilihan 1, Admin Data akan diarahkan untuk memasukkan ID Admin Data dan Password. 
+![Screenshot (439)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/0cec61e8-66cc-4078-b6a2-1c65941e2c00)
+
 
 ### Menu Admin Data
 
 Apabila telah sukses login sebagai Admin Data, akan terdapat Menu Admin Data yang terdiri dari: “Tambah Data Sekolah”, “Lihat Data Sekolah”, “Perbarui Data Sekolah”, “Hapus Data Sekolah”, “Sorting”, “Searching”, dan “Keluar”.
 
+![Screenshot (440)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/a4968bfa-2bdb-4933-b4b7-2f18028ff17a)
 
 
 ### Tambah Data Sekolah
 
 Opsi Tambah Data Sekolah digunakan untuk menambahkan data sekolah dengan memasukkan data sekolah yaitu: Nama Sekolah, Nomor Induk Sekolah, dan Akreditasi Sekolah.
 
+![Screenshot (440)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/81ec6917-49a8-4b15-a20d-f266a4fa845e)
+
+
 ### Lihat Data Sekolah
 Opsi Lihat Data Sekolah digunakan untuk melihat data sekolah yang terdiri dari: “ID Sekolah”, “ID Admin Data”, “Nama Sekolah”, “Nomor Induk Sekolah”, dan “Akreditasi”. 
+
 
 ### Perbarui Data Sekolah
 Opsi Perbarui Data Sekolah digunakan jika ingin memperbarui data sekolah dan akan langsung diarahkan untuk memasukkan ID Sekolah yang ingin diperbarui. Setelah memasukan ID Sekolah, akan ditampilkan Data Sekolah saat ini dan dapat memasukkan data sekolah yang ingin diperbarui.
@@ -284,6 +293,8 @@ Opsi Perbarui Data Sekolah digunakan jika ingin memperbarui data sekolah dan aka
 ### Hapus Data Sekolah
 
 Opsi Hapus Data Sekolah digunakan untuk menghapus data sekolah dengan memasukkan ID sekolah yang ingin dihapus.
+
+
 
 ### Sorting
 Opsi sorting digunakan untuk mengurutkan sekolah yang terdapat opsi: “Nomor Induk Sekolah”, “Akreditasi”, “ID Sekolah” dan “Kembali”. 

@@ -221,7 +221,6 @@ Opsi Lihat Data Sekolah program akan menampilkan daftar sekolah yang di dalam ny
 
 <img width="243" alt="Screenshot 2024-05-01 192856" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/989c1ec1-95fe-4d8b-a7e9-2f42017c53b6">
 
-
 Jika memilih opsi sorting akan diberikan opsi sorting berdasarkan Nomor Induk Sekolah, Akreditasi. dan bisa melakukan sorting berdasarkan Ascending dan Descanding. 
 
 <img width="329" alt="Screenshot 2024-05-01 193007" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/5990212a-5b51-4d11-b7ae-68b1c192838c">
@@ -235,13 +234,16 @@ Sorting Sekolah berdasarkan Nomor Induk Sekolah (Descending)
 <img width="649" alt="Screenshot 2024-05-01 193252" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b6f49265-2fba-47aa-98e8-7fc584392aa1">
 
 Sorting Sekolah berdasarkan Akreditasi Sekolah (Ascending)
+
 <img width="330" alt="Screenshot 2024-05-01 193412" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/e43aae4a-9ea3-4b8d-93bc-eddbf9ffbca5">
+
 
 <img width="627" alt="Screenshot 2024-05-01 193526" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/998a194c-46de-42aa-8598-5efcf712bffe">
 
 Sorting Sekolah berdasarkan Akreditasi Sekolah (Descending)
 
 <img width="330" alt="Screenshot 2024-05-01 194402" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/89040324-b0c6-430c-8c85-a7c9145c67e8">
+
 
 <img width="623" alt="Screenshot 2024-05-01 194348" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/ab1dbbfd-0a20-4bca-af2b-b3ab2384f81c">
 

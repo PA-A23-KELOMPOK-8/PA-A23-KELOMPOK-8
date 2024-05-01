@@ -198,12 +198,19 @@ memberikan banyak rating dan ulasan.
 harus menindak lapor
 
 ## FLOWCHART ##
+• Menu Utama Login
 ![PA ASD 1-Halaman-1 revisi drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/31e571a3-0709-40e2-984f-2713e24bd649)
+• Menu Admin Data
 ![PA ASD 1-Halaman-2 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/92db1c5e-2759-4d6b-aefd-8e80801e3afe)
+• Menu Sorting dan Searching Admin Data
 ![PA ASD 1-Halaman-3 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/e7f079d4-8cfe-4dc5-96c8-7f137c94af9b)
+• Menu Admin Sekolah
 ![PA ASD 1-Halaman-4 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b4be86d3-8fef-4ef2-adc8-3a166becd895)
+• Menu Admin Laporan
 ![PA ASD 1-Halaman-5 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/81893a97-205d-4606-9eae-b5f398d34239)
+• Menu User
 ![PA ASD 1-Halaman-6 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/50b68735-c9e9-46bc-b814-5bd843dc79ae)
+• Menu User pilihan 1
 ![PA ASD 1-Halaman-7 drawio](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/6691eb17-71fd-4502-bb14-1efdb54e5a8f)
 
 ## Cara Penggunaan ##

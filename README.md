@@ -40,11 +40,11 @@ Adapun Modul yang digunakan dalam Project ini adalah :
 
 - **OS** : yaitu modul bawaan yang menyediakan akses ke fungsionalitads sistem operasi.
   
-- **mysql.connector** : yaitu modul yang menyediakan antarmuka untuk berinteraksi dengan database MySQL. Dengan menggunakan modul ini, Anda dapat terhubung ke database MySQL, mengeksekusi perintah SQL, dan melakukan operasi lain seperti menyisipkan, memperbarui, atau menghapus data.
+- **Mysql.connector** : yaitu modul yang menyediakan antarmuka untuk berinteraksi dengan database MySQL. Dengan menggunakan modul ini, Anda dapat terhubung ke database MySQL, mengeksekusi perintah SQL, dan melakukan operasi lain seperti menyisipkan, memperbarui, atau menghapus data.
 
 - **PrettyTable** : yaitu modul yang digunakan untuk memanipulasi visual data yang akan ditampilkan dalam view.
 
-- **math** : Modul ini menyediakan fungsi matematika yang diperlukan untuk melakukan operasi matematika lanjutan. Anda dapat menggunakan modul ini untuk menghitung akar kuadrat, logaritma, trigonometri, dan operasi matematika lainnya.
+- **Math** : yaitu modul yang menyediakan fungsi matematika yang diperlukan untuk melakukan operasi matematika lanjutan. Anda dapat menggunakan modul ini untuk menghitung akar kuadrat, logaritma, trigonometri, dan operasi matematika lainnya.
 
 - **DateTime** : yaitu modul yang digunakan untuk mengambil data tanggal dan waktu.
 

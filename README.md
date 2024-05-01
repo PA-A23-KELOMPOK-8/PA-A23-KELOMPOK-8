@@ -221,13 +221,17 @@ Opsi Lihat Data Sekolah program akan menampilkan daftar sekolah yang di dalam ny
 
 <img width="243" alt="Screenshot 2024-05-01 192856" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/989c1ec1-95fe-4d8b-a7e9-2f42017c53b6">
 
+
 Jika memilih opsi sorting akan diberikan opsi sorting berdasarkan Nomor Induk Sekolah, Akreditasi. dan bisa melakukan sorting berdasarkan Ascending dan Descanding. 
+
 <img width="329" alt="Screenshot 2024-05-01 193007" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/5990212a-5b51-4d11-b7ae-68b1c192838c">
 
 Sorting Sekolah berdasarkan Nomor Induk Sekolah (Ascending)
+
 <img width="656" alt="Screenshot 2024-05-01 193145" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/af1d7c00-59c0-4323-8920-fe2f0cb92a0a">
 
 Sorting Sekolah berdasarkan Nomor Induk Sekolah (Descending)
+
 <img width="649" alt="Screenshot 2024-05-01 193252" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b6f49265-2fba-47aa-98e8-7fc584392aa1">
 
 Sorting Sekolah berdasarkan Akreditasi Sekolah (Ascending)

@@ -271,8 +271,12 @@ Jika memilih Lihat Data Sekolah maka akan seperti menu sebelumnya yang menampilk
 <img width="322" alt="Screenshot 2024-05-01 195919" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d1dc83cb-8d63-494e-b4b0-3bf95e4f7b1c">
 
 Opsi berikan rating dan ulasan, akan diminta input, ID Sekolah, masukkan rating (1-5), dan masukkan ulasan.
- 
+
+<img width="727" alt="Screenshot 2024-05-01 201704" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b4829934-50f7-4c2a-bd01-cf5d2d226856">
+
 Opsi Laporkan Sekolah , akan diminta masukkan ID Sekolah yang akan dilaporkan, masukkan isi laporan.
+
+
 
 Jika pada menu Login Akun User memilih "t" akan diberikan opsi "Apa ingin  buat akun? (y/t)" jika "y" maka akan diminta input Email, Username, Nama Lengkap, dan Password.
 
@@ -284,9 +288,7 @@ Lalu setelah berhasil membuat akun user, akan masuk ke menu seperti menu akun us
 
 <img width="217" alt="Screenshot 2024-05-01 200615" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/3fc0d877-76ee-4b40-ab20-1c526fda5c27">
 
-
-
-
+Program Selesai. 
 
 
 

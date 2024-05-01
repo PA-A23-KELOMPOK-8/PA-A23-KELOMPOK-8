@@ -51,15 +51,15 @@ Adapun Modul yang digunakan dalam Project ini adalah :
 
 ## Instalasi Modul ##
 
-* `pip install mysql-connector-python`
+ `pip install mysql-connector-python`
 
-* `pip install prettytable`
+ `pip install prettytable`
   
-* `pip install pwinput`
+ `pip install pwinput`
   
-* `pip install math`
+ `pip install math`
   
-* `pip install python-Date-Time`
+ `pip install python-Date-Time`
   
 
 ## Struktur Program ##

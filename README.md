@@ -256,57 +256,77 @@ harus menindak lapor
 ### Opsi Awal 
 
 Ketika program pertama kali dijalankan user akan ditampilkan empat opsi awal yaitu "Admin", “User” dan "Keluar. Admin adalah opsi untuk masuk kedalam menu menu admin, lalu “User” adalah opsi untuk masuk kedalam menu user, dan opsi “keluar” untuk menutup program.
-<img width="235" alt="Screenshot 2024-05-01 192604" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/377a5d1d-9b24-416c-acc7-cdbda1598fe4">
+![1 Menu awal](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b52fc549-9a03-44de-a2ed-23a8229a9539)
+
+
 
 ### Menu Login Admin
 Pada saat memilih pilihan admin, akan terdapat menu login admin yang terdiri dari, “Admin Data”, “Admin Sekolah”, “Admin Laporan”, dan “Keluar”.
 
-![Screenshot (438)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/fc8f2b8c-3c49-4e7a-b469-b6e76a593910)
+![2 menu admin](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/25cf71f3-51e6-4906-b78e-565570836059)
+
 
 ### Admin Data
 
 Apabila memilih pilihan 1, Admin Data akan diarahkan untuk memasukkan ID Admin Data dan Password. 
-![Screenshot (439)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/0cec61e8-66cc-4078-b6a2-1c65941e2c00)
+
+![3 login admin data](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/da21abe7-9219-4d8f-b197-e69918085d6c)
 
 
 ### Menu Admin Data
 
 Apabila telah sukses login sebagai Admin Data, akan terdapat Menu Admin Data yang terdiri dari: “Tambah Data Sekolah”, “Lihat Data Sekolah”, “Perbarui Data Sekolah”, “Hapus Data Sekolah”, “Sorting”, “Searching”, dan “Keluar”.
 
-![Screenshot (440)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/a4968bfa-2bdb-4933-b4b7-2f18028ff17a)
+![4 menu admin data opsi 1](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/ecf86625-4408-4367-8bfc-9df68ff8bbfa)
 
 
 ### Tambah Data Sekolah
 
 Opsi Tambah Data Sekolah digunakan untuk menambahkan data sekolah dengan memasukkan data sekolah yaitu: Nama Sekolah, Nomor Induk Sekolah, dan Akreditasi Sekolah.
 
-![Screenshot (440)](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/81ec6917-49a8-4b15-a20d-f266a4fa845e)
+![4 menu admin data opsi 1](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/2e3792ab-feeb-4392-8d36-e10cea4a7d11)
 
 
 ### Lihat Data Sekolah
 Opsi Lihat Data Sekolah digunakan untuk melihat data sekolah yang terdiri dari: “ID Sekolah”, “ID Admin Data”, “Nama Sekolah”, “Nomor Induk Sekolah”, dan “Akreditasi”. 
 
+![WhatsApp Image 2024-05-01 at 21 38 49_a06bfb36](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/8924cd05-4dae-4448-9f8c-9f5c359bd48c)
+
 
 ### Perbarui Data Sekolah
 Opsi Perbarui Data Sekolah digunakan jika ingin memperbarui data sekolah dan akan langsung diarahkan untuk memasukkan ID Sekolah yang ingin diperbarui. Setelah memasukan ID Sekolah, akan ditampilkan Data Sekolah saat ini dan dapat memasukkan data sekolah yang ingin diperbarui.
+
 
 ### Hapus Data Sekolah
 
 Opsi Hapus Data Sekolah digunakan untuk menghapus data sekolah dengan memasukkan ID sekolah yang ingin dihapus.
 
+![5 menu admin data opsi 4](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/4c75ac5d-c038-49ea-bb21-c55d08939348)
 
 
 ### Sorting
 Opsi sorting digunakan untuk mengurutkan sekolah yang terdapat opsi: “Nomor Induk Sekolah”, “Akreditasi”, “ID Sekolah” dan “Kembali”. 
 Opsi Nomor Induk Sekolah akan menampilkan pilihan “Ascending” atau “Descending”
 Opsi “Ascending” digunakan untuk mengurutkan dari terkecil hingga terbesar.
+
+![6 menu admin data opsi 5 pil 1](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/06958f1c-849d-4ba5-a140-d381e66b96a5)
+
 Opsi “Descending” digunakan untuk mengurutkan dari terbesar hingga terkecil.
+
+![7 menu admin data opsi 5 pil 2](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f674cf8c-3976-4d0d-a874-b4c14dea3762)
+
 
 Opsi Akreditasi akan menampilkan pilihan “Ascending” atau “Descending”
 Opsi “Ascending” digunakan untuk mengurutkan dari A-Z.
+
+![7 menu admin data opsi 5 pil 2](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/74f0e758-96ae-43ef-8d0b-3465f02c51ef)
+
 Opsi “Descending” digunakan untuk mengurutkan dari Z-A.
 
 OpsI ID Sekolah akan menampilkan pilihan “Ascending” atau “Descending”
+
+![8 menu admin data opsi 5 pil 3](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f2c710c6-12a1-4744-a57b-0bc3f70b6c9d)
+
 Opsi “Ascending” digunakan untuk mengurutkan dari terkecil hingga terbesar.
 Opsi “Descending” digunakan untuk mengurutkan dari terbesar hingga terkecil.
 
@@ -315,19 +335,25 @@ Opsi Kembali gunakan untuk kembali menuju Menu Admin Sekolah.
 ### Searching
 Opsi Searching digunakan untuk mencari sekolah yang terdapat opsi: “Nomor Induk Sekolah”, “Akreditasi”, “ID Sekolah”, “Nama Sekolah”, dan “Kembali”.
 Apabila memilih opsi 1, Nomor Induk Sekolah akan diarahkan untuk memasukkan Nomor Induk Sekolah yang ingin dicari.
+
+![9 menu admin data opsi 6 pil 1](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/bc6d8591-99e2-4845-8301-5c3741e44f5e)
+
 Apabila memilih opsi 2, Akreditasi akan diarahkan untuk memasukkan Akreditasi yang ingin dicari.
+
+![10 menu admin data opsi 6 pil 2](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/93205a6f-1222-447d-b12c-7f7698d9eb12)
+
 Apabila memilih opsi 3, ID Sekolah akan diarahkan untuk memasukkan ID Sekolah yang ingin dicari.
+
+![11 menu admin data opsi 6 pil 3](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/c9e61576-81e3-451d-b458-9190a5093411)
+
 Apabila memilih opsi 4, Nama Sekolah akan diarahkan untuk memasukkan Nama Sekolah yang ingin dicari.
+
+![12 menu admin data opsi 6 pil 4](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/1f13565d-2ef3-4d69-b911-d831fc01f4d6)
+
 Opsi Kembali gunakan untuk kembali menuju Menu Admin Sekolah.
 
 ### Keluar 
 Opsi Keluar digunakan untuk keluar menuju Menu Login Admin.
-
-
-
-
- 
-
 
 ### Admin Sekolah
 
@@ -335,45 +361,67 @@ Apabila memilih pilihan 2, Admin Sekolah akan mendapatkan pertanyaan “Sudah pu
 
 Apabila memasukkan “y”, akan diarahkan untuk mengisi ID Admin Sekolah, Username, dan Password. 
 
+![13 menu sekolah ngga punya akun ngga mau buat akun](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d5541cad-acff-42b7-89ea-97c968618d0a)
+
 ### Menu Admin Sekolah
 
 Apabila telah sukses login sebagai Admin Sekolah, akan terdapat Menu Admin Data yang terdiri dari: “Lihat Data Sekolah”, “Lihat Data Admin Sekolah”, “Perbarui Data Admin Anda”, “Perbarui Data Sekolah Anda”, dan “Keluar”.
 
-Lihat Data Sekolah
+<img width="351" alt="Screenshot 2024-05-01 220010" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/5dda516f-c897-4c75-8762-763d7bf0a2af">
+
+### Lihat Data Sekolah
 Opsi Lihat Data Sekolah digunakan untuk menampilkan Data Sekolah yang terdiri dari: “ID Sekolah”, “Nama Sekolah”, “Nomor Induk Sekolah”, dan “Akreditasi”.
+
+![15 admin sekolah opsi 1](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b7889d12-5d30-44dc-beef-eecea00f70d4)
 
 ### Lihat Data Admin Sekolah
 Opsi Lihat Data Admin Sekolah digunakan untuk melihat Data Admin Sekolah yang sedang login.
+
+![16 admin sekolah opsi 2](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d5922023-7170-4df9-8ee2-9158a05e31dd)
 
 ### Perbarui Data Admin Sekolah Anda
 
 Opsi Perbarui Data Admin Sekolah digunakan jika ingin memperbarui data Admin sekolah yang sedang login yang terdiri dari: ID Admin Sekolah, ID Sekolah, Nama Lengkap, Username, dan Password. Dan akan diarahkan untuk memasukkan data yang ingin diubah.
 
+![17 admin sekolah opsi 3](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/198c93a4-821f-4a18-976a-65bd2a87c5ce)
+
+
 ### Perbaru Data Sekolah Anda
 
 Opsi Perbarui Data Sekolah digunakan jika ingin memperbarui data sekolah admin yang sedang login yang terdiri dari: ID Sekolah, Nama Sekolah, Nomor Induk Sekolah, dan Akreditasi. Dan akan diarahkan untuk memasukkan data yang ingin diubah.
 
+![18 admin sekolah opsi 4](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f051cb2c-d255-4edb-9982-7d7b2a1932e0)
+
+
 ### Kembali
 Opsi Kembali digunakan untuk kembali ke Menu Login Admin
 
-“t” ak nggatau ini sebutannya apa
 Apabila memasukkan “t” akan terdapat pertanyaan “Apakah ingin buat akun?” dengan opsi jawaban “y” atau “t”.
 
 Apabila memasukkan “y”, akan diarahkan untuk membuat Akun Admin Sekolah dengan mengisi ID Sekolah, Nama Lengkap, Username, dan Password. Pastikan sekolah telah didata.
 
 Apabila memasukkan “t”, akan langsung kembali pada Menu Awal.
 
-
+![19 menu admin sekolah ngga punya akun mau buat akun](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f4b92161-43c0-45d3-b6cf-a67f73df65d4)
 
 ### Menu Admin Laporan
 Apabila memilih pilihan 3, Admin Laporan akan diarahkan untuk memasukkan ID Admin Laporan dan Password. 
+
+![21 login admin laporan](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/0154ca50-f89d-434f-8a55-bb7f7e1c9506)
+
 Apabila telah sukses login sebagai Admin Laporan, akan terdapat Menu Admin Laporan yang terdiri dari: “Lihat Laporan”, “Update Status Laporan”, dan “Kembali”.
 
 ### Lihat Laporan
 Opsi Lihat Laporan digunakan untuk melihat data daftar laporan yang terdiri dari: “ID Laporan”, “Nama Sekolah”, “Tanggal Dibuat”, “Status”, dan “Isi Laporan”.
 
+<img width="363" alt="Screenshot 2024-05-01 214833" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/dac60b3a-47ab-479c-9cc4-283d01e39e5d">
+
 ### Update Status Laporan
 Opsi Update Status Laporan digunakan untuk mengganti status laporan menjadi “Diproses” atau “Selesai”.
+
+![22 admin laporan opsi 1](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/d1e00b80-675a-433d-a7b4-8dfd7f81787c)
+
+![23 admin laporan opsi 2](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/67976049-8c45-454f-9f11-33ada190c5a3)
 
 ### Kembali
 Opsi Kembali digunakan untuk kembali menuju Menu Login Admin.
@@ -403,14 +451,14 @@ Apabila memilih Sorting Sekolah berdasarkan Nomor Induk Sekolah (Descending)
 
 <img width="649" alt="Screenshot 2024-05-01 193252" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/b6f49265-2fba-47aa-98e8-7fc584392aa1">
 
-Sorting Sekolah berdasarkan Akreditasi Sekolah (Ascending)
+Opsi Sorting Sekolah berdasarkan Akreditasi Sekolah (Ascending)
 
 <img width="330" alt="Screenshot 2024-05-01 193412" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/e43aae4a-9ea3-4b8d-93bc-eddbf9ffbca5">
 
 
 <img width="627" alt="Screenshot 2024-05-01 193526" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/998a194c-46de-42aa-8598-5efcf712bffe">
 
-Sorting Sekolah berdasarkan Akreditasi Sekolah (Descending)
+Opsi Sorting Sekolah berdasarkan Akreditasi Sekolah (Descending)
 
 <img width="330" alt="Screenshot 2024-05-01 194402" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/89040324-b0c6-430c-8c85-a7c9145c67e8">
 

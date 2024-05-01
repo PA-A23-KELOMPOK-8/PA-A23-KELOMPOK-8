@@ -257,7 +257,7 @@ Pada saat memilih pilihan admin, akan terdapat menu login admin yang terdiri dar
 ![2 menu admin](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/25cf71f3-51e6-4906-b78e-565570836059)
 
 
-### Admin Data
+## Admin Data
 
 Apabila memilih pilihan 1, Admin Data akan diarahkan untuk memasukkan ID Admin Data dan Password. 
 
@@ -349,7 +349,7 @@ Opsi Kembali gunakan untuk kembali menuju Menu Admin Sekolah.
 ### Keluar 
 Opsi Keluar digunakan untuk keluar menuju Menu Login Admin.
 
-### Admin Sekolah
+## Admin Sekolah
 
 Apabila memilih pilihan 2, Admin Sekolah akan mendapatkan pertanyaan “Sudah punya akun?” dengan pilihan jawaban “y” atau “t“.
 
@@ -384,8 +384,7 @@ Opsi Perbarui Data Admin Sekolah digunakan jika ingin memperbarui data Admin sek
 
 Opsi Perbarui Data Sekolah digunakan jika ingin memperbarui data sekolah admin yang sedang login yang terdiri dari: ID Sekolah, Nama Sekolah, Nomor Induk Sekolah, dan Akreditasi. Dan akan diarahkan untuk memasukkan data yang ingin diubah.
 
-![18 admin sekolah opsi 4](https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f051cb2c-d255-4edb-9982-7d7b2a1932e0)
-
+<img width="556" alt="Screenshot 2024-05-01 222243" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/f0366532-adf7-41cf-9eab-51634ebef305">
 
 ### Kembali
 Opsi Kembali digunakan untuk kembali ke Menu Login Admin
@@ -420,8 +419,8 @@ Opsi Update Status Laporan digunakan untuk mengganti status laporan menjadi “D
 ### Kembali
 Opsi Kembali digunakan untuk kembali menuju Menu Login Admin.
 
-### Menu User
-Dengan memilih opsi “User”, pengguna akan diarahkan ke beberapa menu regular bagi user.
+## User
+Dengan memilih opsi “User”, pengguna akan diarahkan ke beberapa menu regular bagi user. 
 
 <img width="341" alt="Screenshot 2024-05-01 192828" src="https://github.com/PA-A23-KELOMPOK-8/PA-A23-KELOMPOK-8/assets/144756754/bc78a60a-24fe-4247-9f83-a02535fa3909">
 
